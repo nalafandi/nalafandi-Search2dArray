@@ -16,8 +16,7 @@ public class Search2dArray {
                 if (nums[i][j] == target) {
                     return true;
                 }
-            }
-            
+            }            
         }
         return false;
     }
